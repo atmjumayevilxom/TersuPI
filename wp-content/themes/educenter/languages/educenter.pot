@@ -1,0 +1,1563 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Educenter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-18 05:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: functions.php:56
+msgid "Primary"
+msgstr ""
+
+#: functions.php:57
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:116
+msgid "Right Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:118 functions.php:128
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:126
+msgid "Left Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:137
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:139
+msgid "Add widgets here footer widget"
+msgstr ""
+
+#: 404.php:27
+msgid "404"
+msgstr ""
+
+#: 404.php:28
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:32
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:37
+msgid "Back To Home"
+msgstr ""
+
+#: index.php:53 archive.php:48 search.php:47
+msgid "Prev"
+msgstr ""
+
+#: index.php:54 archive.php:49 search.php:48
+msgid "Next"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: section/educenter-section.php:141 section/educenter-section.php:400
+#: section/educenter-section.php:549 section/educenter-section.php:648
+#: template-parts/content.php:47 template-parts/content-search.php:45
+msgid "read more"
+msgstr ""
+
+#: section/educenter-section.php:251
+msgid "About Image"
+msgstr ""
+
+#: section/educenter-section.php:800
+msgid "Gallery Image"
+msgstr ""
+
+#. %s: search query.
+#: sparklethemes/functions.php:94
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sparklethemes/functions.php:98
+msgid "Error Page"
+msgstr ""
+
+#. %1$s: search query.
+#: sparklethemes/functions.php:153
+#, php-format
+msgid "Search Results for : %1$s"
+msgstr ""
+
+#: sparklethemes/functions.php:319
+msgid "Copyright  &copy; "
+msgstr ""
+
+#: sparklethemes/functions.php:322
+msgid "Sparkle Themes"
+msgstr ""
+
+#: sparklethemes/functions.php:420
+msgid "Want more "
+msgstr ""
+
+#: sparklethemes/functions.php:423
+msgid "See EDUCENTER PRO"
+msgstr ""
+
+#: sparklethemes/functions.php:438
+msgid "Enable"
+msgstr ""
+
+#: sparklethemes/functions.php:439
+msgid "Disable"
+msgstr ""
+
+#: sparklethemes/functions.php:556
+msgid "No image selected"
+msgstr ""
+
+#: sparklethemes/functions.php:562
+msgid "Remove"
+msgstr ""
+
+#: sparklethemes/functions.php:563
+msgid "Select Image"
+msgstr ""
+
+#: sparklethemes/functions.php:593
+msgid "Delete"
+msgstr ""
+
+#: sparklethemes/functions.php:594
+msgid "Close"
+msgstr ""
+
+#: sparklethemes/functions.php:698
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: sparklethemes/functions.php:699
+msgid "Clear"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Roboto, translate this to 'off'. Do not translate into your own language.
+#: sparklethemes/functions.php:829
+msgctxt "Roboto+Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#: sparklethemes/functions.php:833
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: sparklethemes/functions.php:837
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: sparklethemes/functions.php:887
+msgid "Display Layout Options"
+msgstr ""
+
+#: sparklethemes/functions.php:899
+msgid "Left Sidebar"
+msgstr ""
+
+#: sparklethemes/functions.php:904
+msgid "Right (Default)"
+msgstr ""
+
+#: sparklethemes/functions.php:909
+msgid "Full width"
+msgstr ""
+
+#: welcome/importer.php:63
+msgid "Educenter Demo"
+msgstr ""
+
+#: welcome/importer.php:72 welcome/importer.php:78 welcome/importer.php:84
+msgid "Upgrade Premium"
+msgstr ""
+
+#: welcome/welcome.php:25
+msgid "Getting Started"
+msgstr ""
+
+#: welcome/welcome.php:26 welcome/sections/recommended_plugins.php:6
+msgid "Recommended Plugins"
+msgstr ""
+
+#: welcome/welcome.php:27
+msgid "Support"
+msgstr ""
+
+#: welcome/welcome.php:28
+msgid "Free Vs Pro"
+msgstr ""
+
+#. %s theme name
+#: welcome/welcome.php:84
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#. %1$s: theme name, %2$s link
+#: welcome/welcome.php:89
+#, php-format
+msgid ""
+"Thank you for choosing %1$s! To fully take advantage of the best our theme "
+"can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr ""
+
+#. %s theme name
+#: welcome/welcome.php:94
+#, php-format
+msgid "Get started with %s"
+msgstr ""
+
+#: welcome/welcome.php:105
+msgid "Welcome"
+msgstr ""
+
+#: welcome/welcome.php:105
+msgid "Educenter Settings"
+msgstr ""
+
+#. 1-theme name, 2-theme version
+#: welcome/welcome.php:117
+#, php-format
+msgid "Welcome to %1$s: Version %2$s"
+msgstr ""
+
+#: welcome/welcome.php:118
+msgid ""
+"Educenter is a user-friendly, elegant, easy to apply and responsive best "
+"FREE WordPress education theme with colorful design and stunning "
+"customization flexibility. Educenter WordPress theme is designed especially "
+"for colleges, university, institutions, schools, online courses, and "
+"different other education websites. The theme shows your website within a "
+"satisfactory viable way on smartphones, iPhones, tablets, and laptops, as "
+"well as large laptop screens. This theme will help you to create a very high-"
+"quality and perfect instructional website effortlessly and easily in less "
+"time."
+msgstr ""
+
+#: welcome/welcome.php:122
+msgid "Upgrade for $55"
+msgstr ""
+
+#: welcome/welcome.php:123 welcome/sections/getting_started.php:111
+msgid "Upgrade Now"
+msgstr ""
+
+#: welcome/welcome.php:124
+msgid "Unlock all the possibitlies with Educenter Pro."
+msgstr ""
+
+#: welcome/welcome.php:158
+msgid "Installing Importer Plugin"
+msgstr ""
+
+#: welcome/welcome.php:159
+msgid "Activating Importer Plugin"
+msgstr ""
+
+#: welcome/welcome.php:160 welcome/sections/getting_started.php:39
+msgid "Go to Importer Page >>"
+msgstr ""
+
+#: welcome/welcome.php:162
+msgid "Error! Reload the page and try again."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:52
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-single.php:63 template-parts/content-page.php:27
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:40 sparklethemes/core/template-tags.php:89
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. %s: post date.
+#: sparklethemes/core/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "On %s"
+msgstr ""
+
+#. %s: post author.
+#: sparklethemes/core/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: sparklethemes/core/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: sparklethemes/core/template-tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: sparklethemes/core/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: sparklethemes/core/template-tags.php:62
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: sparklethemes/core/template-tags.php:72
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:24
+#: sparklethemes/customizer/customizer.php:669
+msgid "Select Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:43
+msgid "Important Links"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:54 welcome/sections/support.php:3
+msgid "Documentation"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:54
+msgid "Live Demo"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:54
+msgid "Support Forum"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:54
+msgid "Like Us in Facebook"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:62
+msgid "General Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:69
+msgid "Site Logo/Title/Tagline"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:78
+msgid "Background Image"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:90
+msgid "Themes Colors Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:99
+msgid "Primary Theme Colors"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:110
+msgid "Top Header Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:118
+msgid "Quick Contact Information"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:129
+msgid "Email Address"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:141
+msgid "Phone Number"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:153
+msgid "Address"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:165
+msgid "Opeening Time"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:175
+msgid "Social Media Link Options"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:182
+msgid "Facebook"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:187
+msgid "Twitter"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:192
+msgid "Google-Plus"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:197
+msgid "Instagram"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:202
+msgid "Pinterest"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:207
+msgid "Linkedin"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:212
+msgid "YouTube"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:240
+msgid "Main Header Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:248
+msgid "Header General Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:261
+msgid "Disable Top Header?"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:263
+msgid "Choose Options to Disable Top Header"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:277
+msgid "Disable Sticky Menu?"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:279
+#: sparklethemes/customizer/customizer.php:387
+msgid "Choose Options to Disable Sticky Menu"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:292
+msgid "Disable Sidebar Sticky?"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:303
+msgid "Main Header Layout"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:317
+msgid "Header Layout Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:328
+msgid "Menu General Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:342
+msgid "Menu Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:353
+msgid "Enable FrontPage / Home Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:364
+msgid "Enable Educenter FrontPage"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:373
+msgid "Main Banner Slider Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:385
+msgid "Choose Enable/Disable Slider"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:408
+msgid "Slider Settings Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:411
+msgid "Slider Settings Options"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:412
+msgid "Add New Slider"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:418
+msgid "Select Slider Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:423
+msgid "Enter Button Text"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:428
+msgid "Enter Button Url"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:443
+msgid "Slider Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:454
+msgid "Inner Page Background Images"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:467
+msgid "Breadcrumbs Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:480
+msgid "HomePage Block Section Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:488
+#: sparklethemes/customizer/customizer.php:574
+msgid "Features Services Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:501
+#: sparklethemes/customizer/customizer.php:599
+#: sparklethemes/customizer/customizer.php:708
+#: sparklethemes/customizer/customizer.php:789
+#: sparklethemes/customizer/customizer.php:886
+#: sparklethemes/customizer/customizer.php:986
+#: sparklethemes/customizer/customizer.php:1061
+#: sparklethemes/customizer/customizer.php:1178
+#: sparklethemes/customizer/customizer.php:1275
+#: sparklethemes/customizer/customizer.php:1368
+msgid "Choose Enable/Disable Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:503
+msgid "Choose Options to Disable Featues Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:516
+msgid "Enter Features Services Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:527
+msgid "Enter Features Services Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:545
+msgid "Features Services Settings Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:548
+#: sparklethemes/customizer/customizer.php:1430
+msgid "Features Services"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:549
+#: sparklethemes/customizer/customizer.php:837
+msgid "Add New Services"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:554
+#: sparklethemes/customizer/customizer.php:842
+msgid "Select Services Icon"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:559
+#: sparklethemes/customizer/customizer.php:847
+msgid "Select Services Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:586
+msgid "About Us Section Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:601
+msgid "Choose Options to Disable About Us Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:614
+msgid "Enter About Us Main Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:625
+msgid "Enter About Us Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:637
+msgid "Upload About Us Features Image"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:655
+msgid "About Us Settings Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:658
+msgid "About US Plan Pages"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:659
+msgid "Add New Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:664
+msgid "Select Icon"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:683
+msgid "Abous Us Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:694
+#: sparklethemes/customizer/customizer.php:1432
+msgid "Call To Action"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:710
+msgid "Choose Options to Disable Call To Action Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:723
+msgid "Select Call To Action Pages"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:734
+msgid "Enter Button One Text"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:745
+msgid "Enter Button One URL"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:757
+msgid "Enter Button Two Text"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:768
+msgid "Enter Button Two URL"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:776
+msgid "Our Popular Courses Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:791
+msgid "Choose Options to Disable Services"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:804
+msgid "Enter Services Main Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:815
+msgid "Enter Services Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:833
+msgid "Services Settings Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:836
+msgid "Main Services"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:862
+msgid "Popular Courses Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:873
+msgid "Courses Section Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:888
+msgid "Choose Options to Disable Courses Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:901
+msgid "Enter Courses Main Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:912
+msgid "Enter Courses Main Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:930
+msgid "Course Settings Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:933
+msgid "Course settings Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:934
+msgid "Add New Course"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:939
+msgid "Select Courses Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:944
+msgid "Enter Course Price"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:960
+msgid "Courses Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:973
+msgid "Gallery Section Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:988
+msgid "Choose Options to Disable Gallery Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1001
+msgid "Enter Gallery Main Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1012
+msgid "Enter Gallery Main SubTitle"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1024
+msgid "Upload Gallery Images"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1032
+msgid "Counter Section Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1063
+msgid "Choose Options to Enable/Disable Counter Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1076
+msgid "Enter Counter Main Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1087
+msgid "Enter Counter Main Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1099
+msgid "Upload Counter BG Image"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1118
+#: sparklethemes/customizer/customizer.php:1121
+msgid "Counter Settings Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1122
+msgid "Add New Counter"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1127
+msgid "Select Counter Icon"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1132
+msgid "Enter Counter Number"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1137
+msgid "Enter Counter Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1152
+msgid "Counter Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1164
+#: sparklethemes/customizer/customizer.php:1224
+#: sparklethemes/customizer/customizer.php:1250
+msgid "Our Team Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1180
+msgid "Choose Options to Disable Team Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1192
+msgid "Enter Team Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1203
+msgid "Enter Team Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1221
+msgid "Team Settings Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1225
+msgid "Add New Team"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1230
+msgid "Select Team Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1235
+msgid "Enter Member Position"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1262
+msgid "Our Testimonial Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1277
+msgid "Choose Options to Disable Testimonial Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1289
+msgid "Enter Testimonial Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1300
+msgid "Enter Testimonial Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1318
+msgid "Testimonial Settings Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1321
+#: sparklethemes/customizer/customizer.php:1342
+msgid "Testimonial Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1322
+msgid "Add New Testimonial"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1327
+msgid "Select Testimonial Page"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1354
+msgid "Our Blogs Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1370
+msgid "Choose Options to Disable Blog Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1382
+msgid "Enter Blog Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1394
+msgid "Enter Blog Sub Title"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1405
+msgid "Select Blog Cateogry"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1415
+#: sparklethemes/customizer/customizer.php:1427
+msgid "FrontPage Section Re Order"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1431
+msgid "About Us"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1433
+msgid "Services Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1434
+msgid "Counter Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1435
+msgid "Courses Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1436
+msgid "Our Team Member"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1437
+msgid "Gallery Section"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1438
+msgid "Testimonial Area"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1439
+msgid "Our Blogs"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1448
+#: sparklethemes/customizer/customizer.php:1461
+msgid "Blog Template Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1473
+msgid "Web Page Layout Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1486
+#: sparklethemes/customizer/customizer.php:1510
+msgid "Web Page Settings"
+msgstr ""
+
+#: sparklethemes/customizer/customizer.php:1498
+msgid "Footer Settings"
+msgstr ""
+
+#: sparklethemes/hooks/header.php:12
+msgid "Skip to content"
+msgstr ""
+
+#: sparklethemes/hooks/footer.php:20
+msgid "Top"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#. %s is the search query.
+#: sparklethemes/breadcrumbs/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#. %s is the page number.
+#: sparklethemes/breadcrumbs/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. %s is the page number.
+#: sparklethemes/breadcrumbs/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: sparklethemes/breadcrumbs/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: sparklethemes/breadcrumbs/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:788
+#: sparklethemes/breadcrumbs/breadcrumbs.php:817
+#: sparklethemes/breadcrumbs/breadcrumbs.php:844
+#: sparklethemes/breadcrumbs/breadcrumbs.php:871
+#: sparklethemes/breadcrumbs/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:789
+#: sparklethemes/breadcrumbs/breadcrumbs.php:845
+#: sparklethemes/breadcrumbs/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:790
+#: sparklethemes/breadcrumbs/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: sparklethemes/breadcrumbs/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#. Theme Name
+#: welcome/sections/support.php:6
+#, php-format
+msgid ""
+"Read the detailed documentation of the theme. The documentation contain all "
+"the necessary information required to setup the theme %s."
+msgstr ""
+
+#: welcome/sections/support.php:7
+msgid "Read Full Documentation"
+msgstr ""
+
+#: welcome/sections/support.php:11 welcome/sections/support.php:13
+msgid "Create Support Tickets"
+msgstr ""
+
+#: welcome/sections/support.php:12
+msgid ""
+"Still having problem after reading all the documentation? No Problem!! "
+"Please create a support ticket. Our dedicated support team will help you to "
+"solve your problem"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:7
+msgid ""
+"Please Install all the plugins. Although these plugins are complementary, we "
+"encourage to install theme to use the theme to full extent"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:29
+msgid "Activate"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:32
+msgid "Installed"
+msgstr ""
+
+#: welcome/sections/recommended_plugins.php:36
+msgid "Install Now"
+msgstr ""
+
+#: welcome/sections/getting_started.php:4
+msgid "Step 1 - Enable \"Front or Home Page\""
+msgstr ""
+
+#: welcome/sections/getting_started.php:6
+msgid ""
+"Go to Appearance >> Customize >> HomePage Block Section >> Enable Front Page"
+msgstr ""
+
+#: welcome/sections/getting_started.php:7
+msgid "Check to Enable Front Page or Home Page \"A Static Page\""
+msgstr ""
+
+#: welcome/sections/getting_started.php:8
+msgid "Save changes"
+msgstr ""
+
+#: welcome/sections/getting_started.php:13
+msgid "Enable Front Page"
+msgstr ""
+
+#: welcome/sections/getting_started.php:17
+msgid "Step 3 - Customizer Options Panel"
+msgstr ""
+
+#: welcome/sections/getting_started.php:18
+msgid ""
+"Now go to Customizer Page. Using the WordPress Customizer you can easily set "
+"up the home page and customize the theme."
+msgstr ""
+
+#: welcome/sections/getting_started.php:19
+msgid "Go to Customizer Panels"
+msgstr ""
+
+#: welcome/sections/getting_started.php:25
+msgid "Import Sample Demo"
+msgstr ""
+
+#: welcome/sections/getting_started.php:26
+msgid "Educenter Demo"
+msgstr ""
+
+#: welcome/sections/getting_started.php:36
+msgid "Activate Importer Plugin"
+msgstr ""
+
+#: welcome/sections/getting_started.php:43
+msgid "Install Importer Plugin"
+msgstr ""
+
+#: welcome/sections/getting_started.php:46
+#, php-format
+msgid ""
+"Or you can import the demo with just one click. It is recommended to import "
+"the demo on a fresh WordPress install. Or you can reset the website using %s "
+"plugin."
+msgstr ""
+
+#: welcome/sections/getting_started.php:48
+msgid "Note: First Install All Theme Recommended Plugins."
+msgstr ""
+
+#: welcome/sections/getting_started.php:50
+msgid "Click on the button below to install and activate demo importer plugin."
+msgstr ""
+
+#: welcome/sections/getting_started.php:57
+msgid ""
+"Check our premium demos. You might be interested in purchasing premium "
+"version."
+msgstr ""
+
+#: welcome/sections/getting_started.php:58
+msgid ""
+"Check out the websites that you can create with the premium version of the "
+"Educenter Pro theme. These demos can be imported with just one click in the "
+"premium version."
+msgstr ""
+
+#: welcome/sections/getting_started.php:64
+#: welcome/sections/getting_started.php:68
+msgid "Educenter Pro Demo One"
+msgstr ""
+
+#: welcome/sections/getting_started.php:70
+#: welcome/sections/getting_started.php:83
+#: welcome/sections/getting_started.php:96
+msgid "Preview"
+msgstr ""
+
+#: welcome/sections/getting_started.php:77
+#: welcome/sections/getting_started.php:81
+msgid "Educenter Pro Demo Two"
+msgstr ""
+
+#: welcome/sections/getting_started.php:90
+#: welcome/sections/getting_started.php:94
+msgid "Educenter Pro Demo Three"
+msgstr ""
+
+#: welcome/sections/getting_started.php:106
+msgid "Upgrade To Premium Version (Educenter Pro)"
+msgstr ""
+
+#: welcome/sections/getting_started.php:107
+msgid ""
+"Educenter Pro Theme you can create a beautiful website. if you want to "
+"unlock more possibilites then upgrade to premium version."
+msgstr ""
+
+#: welcome/sections/getting_started.php:108
+msgid "Try the Premium version and check if it fits to your need or not."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:3
+msgid "ONE TIME PAYMENT"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:4
+msgid "No renewal needed"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:8
+msgid "UNLIMITED DOMAIN LICENCE"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:9
+msgid "Use in as many website as you need"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:13
+msgid "FREE UPDATES FOR LIFE TIME"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:14
+msgid "Keep upto date"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:21 welcome/sections/free_vs_pro.php:200
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:22 welcome/sections/free_vs_pro.php:201
+msgid "Upgrade to pro version for additional features and better supports."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:25 welcome/sections/free_vs_pro.php:204
+msgid "Buy Now ($59 only)"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:29
+msgid "Features"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:30
+msgid "Free"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:31
+msgid "Pro"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:36
+msgid ""
+"With one click demo-import, you can install the demo content with just one "
+"click."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:37
+msgid "1 Demo Only"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:38
+msgid "3 Demos"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:43
+msgid "Multiple Header Layouts and Settings"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:44
+msgid ""
+"The premium version gives the option to choose from 6 header layout. "
+"Additionally, it allows changing the header background color, text color, "
+"header height and more."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:50
+msgid "Unlimited Color Options"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:51
+msgid ""
+"The free version has a basic color option but the premium version has "
+"advanced color options that allow customizing the color theme primary colors."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:52 welcome/sections/free_vs_pro.php:94
+#: welcome/sections/free_vs_pro.php:108 welcome/sections/free_vs_pro.php:116
+#: welcome/sections/free_vs_pro.php:124 welcome/sections/free_vs_pro.php:141
+msgid "Basic"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:53 welcome/sections/free_vs_pro.php:95
+#: welcome/sections/free_vs_pro.php:109 welcome/sections/free_vs_pro.php:117
+#: welcome/sections/free_vs_pro.php:125 welcome/sections/free_vs_pro.php:142
+msgid "Advanced"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:57
+msgid "Advanced Top Header Settings"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:58
+msgid ""
+"Educenter comes with an option for the top bar where you can add contact "
+"address, social icon, nav menu."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:65
+msgid "PreLoader Option"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:66
+msgid ""
+"The loading screen that appears until the website is fully loaded. The "
+"premium version has the option to choose from 16 preloaders or add your own "
+"preloader image as well."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:71
+msgid "Custom Widgets"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:72
+msgid ""
+"With custom widget and Site origin page builder, you can play to create "
+"various website layout."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:78
+msgid "Remove Footer Credit Text"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:79
+msgid ""
+"The premium version easily allows to remove or change the footer credit text."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:85
+msgid "Typography Options"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:86
+msgid ""
+"Take your visual appearance to the next level choosing from a huge "
+"collection of included fonts. mix and match your font color, size and style "
+"to find the perfect look for your brand."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:92
+msgid "Sidebar Layout Options"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:93
+msgid ""
+"The premium version has the option to change the sidebar layout universally "
+"or change the sidebar for individual post/page. Moreover, it allows choosing "
+"the sidebar widgets for individual post/page."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:99
+msgid "Website Layout (Fullwidth or Boxed)"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:100
+msgid ""
+"The premium version has the option to change the website layout to be full "
+"width or boxed. Additionally, you can set the width of the website container."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:106
+msgid "Advance 3 Slider Layout"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:107
+msgid ""
+"The premium version has an option for the Simple slider, Revolution Slider "
+"and Single Banner Image with advanced customization options."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:114
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:115
+msgid ""
+"The premium Version has enhanced WooCommerce options like adding cart icon "
+"in the menu, product page settings, sidebar layout settings and more."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:122
+msgid "Our Team Member Area"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:123
+msgid ""
+"The premium version has custom team member with team detials like positions, "
+"social icon."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:130
+msgid "Blog Custom Widget"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:131
+msgid ""
+"Blogs are a great way to attract new website visitors and built trust. "
+"Sparklstore Pro comes with 4 beautifully designed blog layout posts."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:139
+msgid "Testimonial Section"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:140
+msgid "The premium theme has advance testimonial settings"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:147
+msgid "Translation Ready"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:148
+msgid "Both free and pro version are fully translation ready."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:155
+msgid "Search Engine Optimization"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:156
+msgid ""
+"Follows best SEO practices so that your website always rank higher in Search "
+"Engines."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:163
+msgid "Major Browser Compatible"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:164
+msgid "The website shows good and runs smoothly in all major browsers."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:171
+msgid "Responsive - Mobile Friendly"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:172
+msgid "Adapts to any screen size and display beautifully."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:178
+msgid "Child Theme Support"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:179
+msgid ""
+"Child theme support makes it easy for you to transfer your settings and "
+"options when you update and change you themes."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:185
+msgid "SEO Friendly"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:186
+msgid ""
+"SEO refers to search engine optimization, or the process of optimizing a "
+"website so that people can easily find it via search engines like Google."
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:193
+msgid "Fast and Friendly Support"
+msgstr ""
+
+#: welcome/sections/free_vs_pro.php:194
+msgid "For Premium theme, the user will get a reply in 10 hours or less."
+msgstr ""
+
+#: sparklethemes/customizer/customizer-pro/class-customize.php:77
+msgid "Upgrade To Educenter Pro"
+msgstr ""
+
+#. Name of the theme
+msgid "Educenter"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Educenter is a an ideal Education Free WordPress Theme. It's a simple, clean,"
+" elegant, user-friendly, impressive, engaging, and dynamic theme. Also, it "
+"is fully customizable, and responsive WordPress Theme as well. This "
+"education Free WordPress Theme is specially designed for the type of "
+"education business website. It is very easy to use for all types of "
+"educational institutions like online courses, colleges, universities, "
+"schools, and different other education-based websites. The theme showcases "
+"your website within a satisfactory viable way ranging from handheld "
+"smartphones, iPhones, tablets, Laptops to large screens too. This theme "
+"allows you to create a very high-quality and perfect instructional website "
+"effortlessly and easily in a short time. Educenter Free WordPress Theme has "
+"several advanced features and layouts settings too. It provides some custom "
+"settings like ( header layouts, 1 click demo import, call to action, the "
+"list features courses, team member, testimonial, dynamic color options and "
+"many more. It is also compatible with different page builder plugins. All "
+"the smart, useful and time-saving features help in carving a clan and latest "
+"website which easily in really lesser time. Besides, Educenter Education "
+"Free WordPress theme is fully responsive, cross-browser compatible, "
+"translation ready, SEO friendly theme. It is integrated with WooCommerce. "
+"The theme is even compatible with some other external plugins like elementor "
+"page builder, Page Builder by SiteOrigin, Jetpack, Contact Form 7 and many "
+"other plugins as well."
+msgstr ""
+
+#. URI of the theme
+msgid "https://sparklewpthemes.com/wordpress-themes/educenter"
+msgstr ""
+
+#. Author of the theme
+msgid "sparklewpthemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://sparklewpthemes.com/"
+msgstr ""

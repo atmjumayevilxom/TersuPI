@@ -1,0 +1,546 @@
+.educenter-activation-notice {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-left: 0 !important;
+    border-top: 1px solid #0085BA;
+}
+
+.educenter-activation-notice h1 {
+    margin-bottom: 0 !important;
+}
+
+.educenter-activation-notice p:first-of-type {
+    margin-bottom: 20px !important;
+}
+
+.ocdi__gl-item .ocdi__gl-item-button.js-ocdi-gl-import-data {
+    display: none;
+}
+
+.ocdi__gl-item:first-child .ocdi__gl-item-button.js-ocdi-gl-import-data{
+  display: block;
+}
+
+/**
+ * Additional Styles
+*/
+.educenter-repeater-field-control{
+  background: #FFF;
+  margin-bottom: 12px;
+  display: block;
+}
+.educenter-repeater-footer{
+  margin-top: 15px;
+  text-align: right;
+}
+.educenter-repeater-field-control:first-child .educenter-repeater-footer{
+  display: none;
+}
+.educenter-repeater-field-title{
+  padding: 13px 15px;
+  line-height: 1;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin: 0;
+  font-size: 1em;
+  border: 1px solid #e5e5e5;
+  cursor: move;
+  position: relative;
+  border-bottom: 0;
+}
+#customize-theme-controls .educenter-repeater-field-title.accordion-section-title:after {
+  content: "\f142";
+  font: 400 20px/1 dashicons;
+  position: absolute;
+  right: 0;
+  top: 0;
+  padding: 1px 2px 1px 0;
+  margin-top: 10px;
+  margin-right: 10px;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.educenter-repeater-field-control.expanded .educenter-repeater-field-title:after{
+  content: "\f140";
+}
+.educenter-repeater-fields{
+  padding: 0 10px 25px;
+  border-top: none;
+  line-height: 16px;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0,0,0,.04);
+  display: none;
+}
+.educenter-repeater-fields .customize-control-title{
+  margin-top: 10px;
+}
+.educenter-repeater-field-control.expanded .educenter-repeater-fields{
+  display: block;
+}
+.educenter-add-control-field {
+  float: right;
+}
+.educenter-add-control-field:before {
+    content: "\f132";
+    display: inline-block;
+    position: relative;
+    left: -2px;
+    top: -1px;
+    font: 400 18px/1 dashicons;
+    vertical-align: middle;
+}
+.educenter-fields textarea{
+  width: 100%;
+  min-height: 100px;
+}
+.educenter-fields select{
+  width: 100%;
+  min-width: none;
+}
+.educenter-type-checkbox{
+  margin-top: 10px;
+}
+.educenter-type-checkbox label{
+    line-height: 20px;
+    display: block;
+    margin-left: 24px;
+    padding-top: 6px;
+}
+.educenter-type-checkbox input[type=checkbox]{
+    margin-right: 8px;
+    margin-left: -24px;
+}
+.educenter-type-selector .selector-labels{
+  margin: 0 -5px;
+}
+.educenter-type-selector .selector-labels label{
+  display: inline-block;
+  padding: 10px 5px 0;
+  position: relative;
+  max-width: 50%;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+.educenter-type-selector .selector-labels label img{
+  vertical-align: middle;
+}
+.educenter-type-selector .selector-labels label.selector-selected:after{
+  content: "";
+  height: 35px;
+  width: 35px;
+  right: 0;
+  top: 0;
+  position: absolute;
+  background: url(images/selected.png) no-repeat right top;
+}
+.educenter-type-radio .radio-labels label{
+  display: block;
+  padding: 5px 0;
+}
+
+.educenter-repeater-field-remove{
+  color: red;
+}
+.educenter-type-icon{
+  overflow: hidden;
+}
+
+.educenter-selected-icon{
+  background: #F6F6F6;
+  height: 45px;
+  line-height: 45px;
+  text-align: center;
+  border: 1px solid #EEE;
+  position: relative;
+  margin-right: 45px;
+  cursor: pointer;
+  font-size: 28px;
+}
+
+.educenter-selected-icon span{
+  position: absolute;
+  background: #F6F6F6;
+  right: -45px;
+  top: -1px;
+  height: 45px;
+  width: 45px;
+  border: 1px solid #EEE;
+  font-size: 20px;
+}
+
+.educenter-icon-list{
+  height: 215px;
+  overflow-y: scroll;
+  font-size: 18px;
+  border: 1px solid #EEE;
+  border-right: 0;
+  border-top: 0;
+  padding-bottom: 4%;
+  display: none;
+  cursor: pointer;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+.educenter-icon-list li{
+  float: left;
+  margin: 4% 3% 0;
+  height: 40px;
+  width: 16%;
+  text-align: center;
+  line-height: 40px;
+  border: 1px solid #EEE;
+}
+
+.educenter-icon-list li:hover{
+  background: #333;
+  border: 1px solid #333;
+  color: #FFF;
+}
+
+.educenter-icon-list li.icon-active{
+  background: #0073aa;
+  border: 1px solid #0073aa;
+  color: #FFF;
+}
+
+
+.customize-control-checkbox-multiple .customize-control-title{
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+  border-left: 4px solid #fff;
+  -webkit-transition: .15s color ease-in-out,.15s background-color ease-in-out,.15s border-color ease-in-out;
+  transition: .15s color ease-in-out,.15s background-color ease-in-out,.15s border-color ease-in-out;
+  color: #0073aa;
+  background: #f3f3f5;
+  border-left-color: #0073aa;
+}
+.customize-control-checkbox-multiple ul{
+  padding: 5px;
+  border: 2px solid #f3f3f5;
+}
+
+
+#sub-accordion-panel-educenter_homepage_settings .control-section .accordion-section-title:before,
+.customize-pane-parent .control-section .accordion-section-title:before{
+    font-family: dashicons;
+    content: "\f545";
+    font-size: 20px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+#sub-accordion-panel-educenter_homepage_settings .control-section .accordion-section-title:before {
+  content: "\f168";
+  opacity: 0.9;
+}
+
+#accordion-section-educenterdoc .accordion-section-title:before {
+    content: "\f105";
+}
+
+#accordion-panel-educenter_general_settings .accordion-section-title:before{
+    content: "\f111";
+}
+
+#accordion-section-educenter_banner_slider .accordion-section-title:before{
+    content: "\f161";
+}
+#accordion-section-colors .accordion-section-title:before{
+  content: "\f131";
+}
+#accordion-panel-educenter_header_general_settings .accordion-section-title:before{
+  content: "\f10e";
+}
+#accordion-section-hello_education_features_services_area_options .accordion-section-title:before{
+  content: "\f181";
+}
+#accordion-section-header_image .accordion-section-title:before{
+  content: "\f128";
+}
+#accordion-section-educenter_pro_footer_settings_panel .accordion-section-title:before{
+  content: "\f116";
+}
+#accordion-panel-woocommerce .accordion-section-title:before{
+  content: "\f174";
+}
+#accordion-section-educenter_implink_link_section .accordion-section-title:before{
+  content: "\f331";
+}
+#accordion-section-static_front_page .accordion-section-title:before,
+#accordion-panel-educenter_homepage_settings .accordion-section-title:before{
+    content: "\f102";
+}
+
+#accordion-panel-nav_menus .accordion-section-title:before{
+    content: "\f333";
+}
+
+#accordion-panel-widgets .accordion-section-title:before{
+    content: "\f116";
+}
+
+#accordion-panel-widgets .accordion-section-title:before{
+    content: "\f116";
+}
+
+#accordion-section-custom_css .accordion-section-title:before{
+    content: "\f499";
+}
+
+.educenter-implink{
+  background: #0073aa;
+  padding: 8px;
+  color: #FFF !important;
+  text-align: center;
+  display: block;
+  margin-top: 5px;
+  line-height: 1.2;
+  box-shadow: none;
+  font-style: normal;
+  text-decoration: none;
+}
+
+.educenter-implink:hover{
+  background: #000;
+}
+
+
+#customize-control-educenter_pro_theme_features .description ul{
+  font-style: normal;
+  font-size: 14px;
+}
+
+#customize-control-educenter_pro_theme_features .description ul li{
+  background: #0073aa;
+  padding: 8px;
+  color: #FFF !important;
+  text-align: left;
+  line-height: 1.5;
+}
+
+
+
+/**
+ * Enable/Diabal Switch CSS 
+*/
+.switch_options{
+    display: block;
+}
+.switch_options:before,
+.switch_options:after{
+    content:'.';
+    display:block;
+    overflow:hidden;
+    visibility:hidden;
+    font-size:0;
+    line-height:0;
+    width:0;
+    height:0;
+}
+.switch_options:after{
+  clear:both;
+}
+.switch_options span{
+    display: inline-block;
+    float: left;
+    padding: 8px 15px;
+    margin: 0;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: normal;
+    color: #555;
+    border: 1px solid #aaa;
+    text-transform: uppercase;
+    line-height: 16px;
+    background: #ffffff; /* Old browsers */
+    background: -moz-linear-gradient(top,  #ffffff 0%, #e5e5e5 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#e5e5e5)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #ffffff 0%,#e5e5e5 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #ffffff 0%,#e5e5e5 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
+}
+.switch_options span:first-of-type{
+    border-radius: 2px 0 0 2px;
+    border-right: 0;
+}
+.switch_options span:last-of-type{
+    border-radius: 0 2px 2px 0;
+    border-left: 0;
+}
+.switch_options span:hover{
+    background: #fafafa;
+}
+.switch_options span.selected{
+    background: #00b7ea; /* Old browsers */
+    background: -moz-linear-gradient(top,  #00b7ea 0%, #009ec3 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#00b7ea), color-stop(100%,#009ec3)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #00b7ea 0%,#009ec3 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #00b7ea 0%,#009ec3 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #00b7ea 0%,#009ec3 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #00b7ea 0%,#009ec3 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b7ea', endColorstr='#009ec3',GradientType=0 ); /* IE6-9 */
+    border-color: #0082A3;
+    color: #fff;
+}
+
+.customize-control-title {
+    color: #0073aa;
+    border-bottom: 1px solid #eee;
+    border-top: 1px solid #eee;
+    padding: 10px 10px 11px 14px;
+    line-height: 21px;
+    background: #FFF;
+    margin: 0 -12px 0;
+    border-left: 4px solid #0073aa;
+    margin-bottom: 15px;
+}
+
+/**
+ * Customizer Page Layout 
+*/
+.image label{
+    position: relative;
+    margin: 0 3% 3% 0;
+    display: inline-block;
+    width: 46%;
+}
+
+.image input{
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.image img{
+    display: block;
+    border:2px solid #F6F6F6;
+}
+
+.image input:checked + img{
+    border:2px solid #CCC;
+}
+
+.radio-image-wrapper{
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+}
+
+/**
+ * Multiple Gallery Upload Image
+*/
+.gallery-screenshot{
+  margin-bottom: 10px;
+  margin-left: -5px;
+  margin-right: -5px;
+}
+
+.gallery-screenshot .screen-thumb{
+  width: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  padding: 5px;
+}
+
+.gallery-screenshot .screen-thumb:nth-child(2n+1){
+    clear: both;
+}
+
+.gallery-screenshot .screen-thumb img{ 
+  border: 1px solid #EEE;
+  vertical-align: middle;
+}
+
+#clear-gallery{
+  float: right;
+}
+
+#accordion-section-educenter_homepage_section_reorder h3.accordion-section-title,
+#accordion-section-educenter_homepage_section_reorder h3.accordion-section-title:hover,
+#accordion-panel-educenter_homepage_settings h3.accordion-section-title,
+#accordion-panel-educenter_homepage_settings h3.accordion-section-title:hover{
+    background: #0073aa;
+    color: #fff;
+}
+
+
+/**
+ * Page Features Icon picker
+*/
+.sp-icons-wrapper .icons-list-wrapper{
+    height: 180px;
+    overflow-y: scroll;
+    background: #fff;
+    border: 1px solid #ccc;
+    width: 100%;
+}
+.sp-icons-wrapper .icons-list-wrapper span{
+    display: block;
+    float: left;
+    padding: 14px;
+    height: 20px;
+    width: 20px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 50%;
+}
+.sp-icons-wrapper .icons-list-wrapper span:hover,
+.sp-icons-wrapper .icons-list-wrapper span.selected {
+    background: #2d2d2d;
+    color: #fff;
+}
+.icon-preview,
+.icon-toggle{
+    background: #2d2d2d;
+    height: 40px;
+    text-align: center;
+    margin-bottom: 5px;
+    border: 1px solid #2D2D2D;
+    border-radius: 8px;
+    color: #fff;
+    padding-bottom: 3px;
+    display: inline-block;
+    min-width: 40px;
+    cursor: pointer;
+}
+.icon-preview i {
+    font-size: 25px;
+    padding: 9px;
+}
+.icon-toggle,
+.icon-toggle span {
+    background: transparent;
+    border: none;
+    color: #2d2d2d;
+    float: right;
+    font-size: 17px;
+    line-height: 40px;
+}
+.icon-toggle span {
+    font-size: 20px;
+}
+.single-icon{
+    cursor: pointer;
+}
+
+/**
+ * Page Layout Metabox CSS
+*/
+.slidercat {
+    float: right;
+    margin-right: 20px;
+}

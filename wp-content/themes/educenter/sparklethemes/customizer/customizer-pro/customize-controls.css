@@ -1,0 +1,90 @@
+#customize-controls .control-section-educenter .accordion-section-title:hover,
+#customize-controls .control-section-educenter .accordion-section-title:focus {
+	background-color: #fff;
+}
+.educenter-drag-spinner {
+    display: none;
+    float: right;
+}
+#sub-accordion-panel-educenter_homepage_settings .customize-info .customize-panel-description {
+    display: block !important;
+}
+.rtl .control-section-educenter .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+#accordion-section-educenter .accordion-section-title .button {
+    height: 40px;
+    line-height: 38px;
+    text-transform: uppercase;
+    padding: 0 25px 0;
+}
+
+#accordion-section-educenter .accordion-section-title:before{
+    content: '';
+}
+
+#accordion-section-educenterdoc .accordion-section-title .button {
+    float: right;
+}
+
+.customize-control-educenter-upgrade-text {
+    background: #FFFFFF;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.customize-control-educenter-upgrade-text ul {
+    margin: 8px 0 0 16px;
+    font-style: italic;
+}
+
+.customize-control-educenter-upgrade-text ul li:before {
+    content: '- ';
+    margin-left: -8px;
+}
+
+.control-section-educenter-upgrade-section{
+    background: #FFF;
+    padding: 20px;
+    margin: 15px;
+}
+
+.control-section-educenter-upgrade-section .button{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.control-section-educenter-upgrade-section label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.control-section-educenter-upgrade-section{
+    background: #FFF;
+    padding: 20px;
+    margin: 15px;
+}
+
+.control-section-educenter-upgrade-section .button{
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.control-section-educenter-upgrade-section label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.customizer-hidden {
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+    position: absolute;
+    clip: rect(0, 0, 0, 0);
+    left: -1000px;
+}

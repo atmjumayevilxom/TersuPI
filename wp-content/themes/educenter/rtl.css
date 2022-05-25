@@ -1,0 +1,276 @@
+body {
+   direction: rtl;
+}
+
+/**
+ * Top Header
+*/
+.general-header .top-header .contact-info ul li {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+.general-header .top-header .contact-info ul li:last-child {
+    margin-left: 0;
+}
+
+.general-header .top-header .right-contact ul li {
+    margin-right: 0;
+    margin-left: 15px;
+}
+
+/**
+ * Main Header
+*/
+
+.header-middle-inner > *:not(:last-child) {
+    padding-right: 0;
+    padding-left: 15px;
+}
+
+.box-header-nav {
+    float: left;
+}
+
+.box-header-nav .main-menu>ul>.page_item, .box-header-nav .main-menu>.menu-item {
+    float: right;
+}
+
+.box-header-nav .main-menu .page_item.page_item_has_children>a::after, 
+.box-header-nav .main-menu>.menu-item.menu-item-has-children>a::after {
+    margin-left: 0;
+    margin-right: 5px;
+}
+
+.box-header-nav .main-menu .children, .box-header-nav .main-menu .sub-menu{
+	right:100%;
+
+}
+
+.box-header-nav .main-menu .children>.page_item>a, 
+.box-header-nav .main-menu .sub-menu>.menu-item>a {
+    text-align: right;
+}
+
+.box-header-nav .main-menu .children>.page_item.page_item_has_children>a::after, 
+.box-header-nav .main-menu .sub-menu>.menu-item.menu-item-has-children>a::after {
+    float: left;
+    content: '\f104';
+}
+
+
+.header-nav-toggle {
+    float: left;
+}
+
+.box-header-nav .main-menu {
+    text-align: right;
+}
+
+span.sub-toggle {
+    left: 0;
+    right: auto;
+}
+
+@media (max-width: 900px){
+	.box-header-nav .main-menu .children, .box-header-nav .main-menu .sub-menu {
+
+	    right: 10px !important;
+	}
+}
+
+
+@media (max-width: 860px){
+	
+	#edu-services-section .ed-service-left .ed-col-holder .col {
+	    margin-left: 1% !important;
+	    margin-right: 0;
+	}
+
+	.ed-services .ed-service-left .ed-col-holder .col:nth-child(3n) {
+		margin-left: 1%;
+	}
+
+	.ed-footer .ed-col-4 .ed-col {
+	    margin-left: 1% !important;
+	}
+}
+
+/**
+ * Features Services List
+*/
+
+.ed-services.layout-3 .ed-service-slide .col:before {
+    left: -125px;
+    top: -60px;
+    right:auto;
+}
+
+.ed-services.layout-3 .ed-service-slide .col .text-holder {
+    padding-right: 20px;
+    padding-left: 0;
+}
+
+.ed-services.layout-3 .ed-service-slide .col .text-holder a.ed-button:before {
+    content: '\f100';
+    left: -15px;
+    right:auto;
+}
+.ed-services.layout-3 .ed-service-slide .col .text-holder a.ed-button:hover:before {
+    left: -18px;
+    right: auto;
+}
+
+/**
+ * About Us Section
+*/
+.ed-about-us.layout-2 .ed-about-content {
+    float: right;
+}
+
+.ed-about-us.layout-2 .ed-about-image {
+    float: left;
+}
+
+.ed-about-us h2.section-header:before {
+    right: 160px;
+    left: auto;
+}
+
+.ed-about-us h2.section-header:after {
+    right: 0;
+    left: auto;
+}
+
+.ed-about-us .ed-about-content .listing .text-holder {
+    padding-left: 0;
+    padding-right: 15px;
+}
+
+/**
+ * Services Area Section
+*/
+
+.ed-services .ed-service-left .ed-col-holder .col {
+    margin-left: 3%;
+    margin-right: 0;
+}
+
+.ed-services .ed-service-left .ed-col-holder .col:nth-child(3n) {
+    margin-left: -3px;
+    margin-right: 0;
+}
+
+/**
+ * Call To Action Section
+*/
+.ed-cta.layout-1 .ed-cta-holder a.ed-button.secondary-button {
+    margin-left: 0;
+    margin-right: 15px;
+}
+
+
+/**
+ * Footer
+*/
+.ed-footer .ed-col-4 .ed-col {
+    margin-right: 0;
+    margin-left: 2%;
+}
+
+.ed-footer .ed-col-2 .ed-col:nth-child(even), 
+.ed-footer .ed-col-3 .ed-col:nth-child(3n), 
+.ed-footer .ed-col-4 .ed-col:nth-child(4n) {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.ed-footer .bottom-footer .footer-bottom-left {
+    float: right;
+}
+
+.ed-footer .bottom-footer .footer-bottom-right {
+    float: left;
+}
+
+.ed-footer .bottom-footer .footer-bottom-left p a {
+    float: right;
+    margin-left: 10px;
+}
+
+
+.pp_hoverContainer {
+    display: none;
+}
+
+/**
+ * Widget Area
+*/
+.widget_recent_entries a {
+    padding-left: 0;
+    padding-right: 15px;
+}
+
+.widget_recent_entries a::before {
+    content: "\f100";
+}
+
+.widget_archive a::before, .widget_categories a::before, .widget_recent_entries a::before, .widget_meta a::before, .widget_recent_comments li::before, .widget_rss li:before, .widget_pages li:before, .widget_nav_menu li:before, .widget_product_categories a:before {
+    right: 0;
+    left: auto;
+}
+
+.widget_archive ul li a, .widget_categories ul li a, .widget_product_categories ul li a {
+    float: right;
+}
+
+.widget_archive a, .widget_categories a, .widget_recent_entries a, .widget_meta a, .widget_recent_comments li, .widget_rss li, .widget_pages li, .widget_nav_menu li, .widget_product_categories a {
+    padding-right: 22px;
+    padding-left: 0;
+}
+
+
+.ed-about-us.layout-1 {
+    text-align: right;
+}
+
+/**
+ * Single Post Next and Previous
+*/
+.nav-previous a {
+    margin-left: 0;
+    margin-right: 0;
+}
+.nav-next a {
+    margin-right: 13px;
+    margin-left: 13px;
+}
+
+
+/**
+ * WooCommerce Account Page
+*/
+.woocommerce-account .woocommerce-MyAccount-navigation ul li {
+    float: right;
+}
+
+
+.widget_search .search-field, .widget_product_search .search-field{
+	text-align: left;
+}
+
+
+/**
+ * Breadcrumbs
+*/
+.ed-breadcrumb .breadcrumb-list ul.trail-items li span {
+    padding-right: 25px;
+    padding-left: 0;
+}
+
+.ed-breadcrumb .breadcrumb-list ul.trail-items li::before {
+    content: '\f104';
+    right:10px;
+    left: auto;
+}
+

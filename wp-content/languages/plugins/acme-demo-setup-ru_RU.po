@@ -1,0 +1,224 @@
+# Translation of Plugins - Acme Demo Setup - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Acme Demo Setup - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-24 12:44:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Acme Demo Setup - Stable (latest release)\n"
+
+#: includes/functions.php:545 includes/functions.php:580
+#: includes/functions.php:611 includes/functions.php:642
+#: includes/functions.php:673 includes/functions.php:3197
+#: includes/functions.php:3236 includes/functions.php:3275
+#: includes/functions.php:3314 includes/functions.php:3353
+#: includes/functions.php:3392
+msgid "Breadcrumb NavXT"
+msgstr "Breadcrumb NavXT"
+
+#: includes/api.php:113 includes/api.php:125
+msgid "Cheatin&#8217; huh?"
+msgstr "Хакер, что ли?"
+
+#: includes/hooks.php:145
+msgid "Clicking the button below will install and activate the Advanced Import plugin."
+msgstr "Нажав на кнопку ниже, вы установите и активируете плагин Advanced Import."
+
+#: includes/functions.php:549 includes/functions.php:584
+#: includes/functions.php:615 includes/functions.php:646
+#: includes/functions.php:677
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: includes/hooks.php:148
+msgid "Get Started"
+msgstr "Начать"
+
+#: includes/hooks.php:121
+msgid "Processing..."
+msgstr "Обработка…"
+
+#: includes/hooks.php:182
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Извините, вы не можете устанавливать плагины на этом сайте."
+
+#: includes/hooks.php:250
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Невозможно соединиться с файловой системой. Проверьте свои полномочия."
+
+#. Author of the plugin
+msgid "acmethemes"
+msgstr "acmethemes"
+
+#. Author URI of the plugin
+msgid "https://www.acmethemes.com/"
+msgstr "https://www.acmethemes.com/"
+
+#. Plugin Name of the plugin
+#: includes/init.php:110
+msgid "Acme Demo Setup"
+msgstr "Acme Demo Setup"
+
+#: includes/functions.php:24 includes/functions.php:59
+#: includes/functions.php:191 includes/functions.php:257
+#: includes/functions.php:385 includes/functions.php:424
+#: includes/functions.php:525 includes/functions.php:560
+#: includes/functions.php:688 includes/functions.php:723
+#: includes/functions.php:851 includes/functions.php:882
+#: includes/functions.php:1125 includes/functions.php:1156
+#: includes/functions.php:1204 includes/functions.php:1270
+#: includes/functions.php:1460 includes/functions.php:1588
+#: includes/functions.php:1751 includes/functions.php:1883
+#: includes/functions.php:2015 includes/functions.php:2050
+#: includes/functions.php:2194 includes/functions.php:2229
+#: includes/functions.php:2287 includes/functions.php:2318
+#: includes/functions.php:2349 includes/functions.php:2544
+#: includes/functions.php:2743 includes/functions.php:2778
+#: includes/functions.php:2813 includes/functions.php:2848
+#: includes/functions.php:2883 includes/functions.php:2919
+#: includes/functions.php:2955 includes/functions.php:2990
+#: includes/functions.php:3025 includes/functions.php:3064
+#: includes/functions.php:3103 includes/functions.php:3138
+#: includes/functions.php:3173 includes/functions.php:3212
+#: includes/functions.php:3251 includes/functions.php:3290
+#: includes/functions.php:3329 includes/functions.php:3368
+msgid "Demo 1"
+msgstr "Демо 1"
+
+#: includes/functions.php:90 includes/functions.php:222
+#: includes/functions.php:288 includes/functions.php:455
+#: includes/functions.php:591 includes/functions.php:754
+#: includes/functions.php:921 includes/functions.php:1178
+#: includes/functions.php:1235 includes/functions.php:1301
+#: includes/functions.php:1491 includes/functions.php:1619
+#: includes/functions.php:1782 includes/functions.php:1914
+#: includes/functions.php:2085 includes/functions.php:2256
+#: includes/functions.php:2384 includes/functions.php:2583
+msgid "Demo 2"
+msgstr "Демо 2"
+
+#: includes/functions.php:121 includes/functions.php:319
+#: includes/functions.php:490 includes/functions.php:622
+#: includes/functions.php:785 includes/functions.php:960
+#: includes/functions.php:1332 includes/functions.php:1522
+#: includes/functions.php:1650 includes/functions.php:1817
+#: includes/functions.php:1949 includes/functions.php:2120
+#: includes/functions.php:2423 includes/functions.php:2622
+msgid "Demo 3"
+msgstr "Демо 3"
+
+#: includes/functions.php:156 includes/functions.php:350
+#: includes/functions.php:653 includes/functions.php:816
+#: includes/functions.php:999 includes/functions.php:1363
+#: includes/functions.php:1553 includes/functions.php:1681
+#: includes/functions.php:1848 includes/functions.php:1980
+#: includes/functions.php:2155 includes/functions.php:2462
+#: includes/functions.php:2661
+msgid "Demo 4"
+msgstr "Демо 4"
+
+#: includes/functions.php:1038 includes/functions.php:1394
+#: includes/functions.php:1716
+msgid "Demo 5"
+msgstr "Демо 5"
+
+#: includes/functions.php:2501 includes/functions.php:2700
+msgid "Demo 5 RTL"
+msgstr "Демо 5 RTL"
+
+#: includes/functions.php:1077 includes/functions.php:1425
+msgid "Demo 6"
+msgstr "Демо 6"
+
+#: includes/hooks.php:94
+msgid "Demo Import "
+msgstr "Demo Import "
+
+#: includes/hooks.php:94
+msgid "Demo Import"
+msgstr "Demo Import"
+
+#: includes/hooks.php:147
+msgid "Get started with the Theme"
+msgstr "Начните работу с темой"
+
+#: includes/functions.php:541 includes/functions.php:576
+#: includes/functions.php:607 includes/functions.php:638
+#: includes/functions.php:669
+msgid "Gutentor"
+msgstr "Gutentor"
+
+#: includes/functions.php:27 includes/functions.php:62
+#: includes/functions.php:93 includes/functions.php:124
+#: includes/functions.php:159 includes/functions.php:194
+#: includes/functions.php:225 includes/functions.php:260
+#: includes/functions.php:291 includes/functions.php:322
+#: includes/functions.php:353 includes/functions.php:388
+#: includes/functions.php:427 includes/functions.php:458
+#: includes/functions.php:493 includes/functions.php:528
+#: includes/functions.php:563 includes/functions.php:594
+#: includes/functions.php:625 includes/functions.php:656
+#: includes/functions.php:691 includes/functions.php:726
+#: includes/functions.php:757 includes/functions.php:788
+#: includes/functions.php:819 includes/functions.php:854
+#: includes/functions.php:885 includes/functions.php:924
+#: includes/functions.php:963 includes/functions.php:1002
+#: includes/functions.php:1041 includes/functions.php:1080
+#: includes/functions.php:1128 includes/functions.php:1159
+#: includes/functions.php:1181 includes/functions.php:1207
+#: includes/functions.php:1238 includes/functions.php:1273
+#: includes/functions.php:1304 includes/functions.php:1335
+#: includes/functions.php:1366 includes/functions.php:1397
+#: includes/functions.php:1428 includes/functions.php:1463
+#: includes/functions.php:1494 includes/functions.php:1525
+#: includes/functions.php:1556 includes/functions.php:1591
+#: includes/functions.php:1622 includes/functions.php:1653
+#: includes/functions.php:1684 includes/functions.php:1719
+#: includes/functions.php:1754 includes/functions.php:1785
+#: includes/functions.php:1820 includes/functions.php:1851
+#: includes/functions.php:1886 includes/functions.php:1917
+#: includes/functions.php:1952 includes/functions.php:1983
+#: includes/functions.php:2018 includes/functions.php:2053
+#: includes/functions.php:2088 includes/functions.php:2123
+#: includes/functions.php:2158 includes/functions.php:2197
+#: includes/functions.php:2232 includes/functions.php:2259
+#: includes/functions.php:2290 includes/functions.php:2321
+#: includes/functions.php:2352 includes/functions.php:2387
+#: includes/functions.php:2426 includes/functions.php:2465
+#: includes/functions.php:2504 includes/functions.php:2547
+#: includes/functions.php:2586 includes/functions.php:2625
+#: includes/functions.php:2664 includes/functions.php:2703
+#: includes/functions.php:2746 includes/functions.php:2781
+#: includes/functions.php:2816 includes/functions.php:2851
+#: includes/functions.php:2886 includes/functions.php:2922
+#: includes/functions.php:2958 includes/functions.php:2993
+#: includes/functions.php:3028 includes/functions.php:3067
+#: includes/functions.php:3106 includes/functions.php:3141
+#: includes/functions.php:3176 includes/functions.php:3215
+#: includes/functions.php:3254 includes/functions.php:3293
+#: includes/functions.php:3332 includes/functions.php:3371
+#: includes/init.php:135
+msgid "Acme Themes"
+msgstr "Acme Themes"
+
+#. Description of the plugin
+msgid "Install Template Demo Library for Acme Themes"
+msgstr "Установить демо-библиотеку шаблонов для тем Acme"
+
+#: includes/api.php:55
+msgid "Theme Slug"
+msgstr "Ярлык темы"
+
+#: includes/init.php:135
+msgid "This plugin requires %s Theme to be activated to work."
+msgstr "Для работы этого плагина требуется, чтобы %s тема была активирована."
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: includes/hooks.php:141
+msgid "Welcome! Thank you for choosing %1$s! To get started with ready-made starter site templates. Install the Advanced Import plugin and install Demo Starter Site within a single click"
+msgstr "Добро пожаловать! Спасибо, что выбрали %1$s! Чтобы начать работу с готовыми шаблонами стартовых сайтов. Установите плагин Advanced Import и установите Demo Starter Site в один клик"
